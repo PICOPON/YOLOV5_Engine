@@ -1,0 +1,13 @@
+# pip install -r requirements.txt
+
+# Base ----------------------------------------
+numpy
+opencv-python
+
+# tensorrt cuda
+pycuda
+tensorrt
+
+
+
+
