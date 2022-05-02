@@ -7,7 +7,7 @@
   pip install -r requirements.py
  ```
 ## Usage ##
-- Predict Support **2 MODE**（--source camera or single image)
+- Predict Support **2 MODE**（--source camera or image)
 ```
   python yolov5pred.py --engine runs/yolov5s.engine  --categories runs/names.txt --source camera --conf-thres 0.25 --iou-thres 0.1
 ```
