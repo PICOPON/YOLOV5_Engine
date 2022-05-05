@@ -5,9 +5,12 @@ numpy
 opencv-python
 
 # tensorrt cuda
-pycuda
-tensorrt
+pycuda == 2021.1
 
-
+# tensorrt
+# linux system install command
+# pip install nvidia-pyindex
+# pip install nvidia-tensorrt == 8.2.1.8
+# windows system installation steps please reference url: https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html#installing-zip
 
 
