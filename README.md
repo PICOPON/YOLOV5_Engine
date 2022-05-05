@@ -29,4 +29,5 @@ Other optional extra parameters：
 --iou-thres 0.1               # iou threshold
 ```
 ## Result ##
+Prediction results of Windows or Linux platforms:
 ![image](https://github.com/PICOPON/yolov5_engine/blob/master/output/bus.jpg)
