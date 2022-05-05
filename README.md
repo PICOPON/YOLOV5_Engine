@@ -9,11 +9,11 @@
  python:3.9
  ```
 - **Installation**
-If you use a Linux based system, you can easily install by:
+If you use a **Linux** based system, you can easily install by:
 ```
   pip install -r requirements.py
  ```
-else if you use a Windows based system, only the installation method of **tensorrt** library  is different, please reference by follow url https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html#installing-tar
+else if you use a **Windows**  system, only the installation method of **tensorrt** library  is different, please reference by follow url https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html#installing-tar
 ## Usage ##
 - Predict Support **2 MODE**（--source camera or image)
 You can easily start by following command.
@@ -28,5 +28,5 @@ Other optional extra parameters：
 --conf-thres 0.25             # confidence threshold
 --iou-thres 0.1               # iou threshold
 ```
-## result ##
+## Result ##
 ![image](https://github.com/PICOPON/yolov5_engine/blob/master/output/bus.jpg)
