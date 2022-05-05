@@ -11,3 +11,5 @@
 ```
   python yolov5pred.py --engine runs/yolov5s.engine  --categories runs/names.txt --source camera --conf-thres 0.25 --iou-thres 0.1
 ```
+## result ##
+![image](https://github.com/PICOPON/yolov5_engine/blob/master/output/bus.jpg)
