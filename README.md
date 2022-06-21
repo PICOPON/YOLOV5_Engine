@@ -15,7 +15,7 @@ If you use a **Linux** based system, you can easily install by:
  ```
 else if you use a **Windows**  system, only the installation method of **tensorrt** library  is different, please reference by follow url https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html#installing-tar
 ## Usage ##
-- Prediction Support **2 MODE**（--source camera or image)
+- Prediction support **2 MODE**（--source camera or image)
 You can easily start by following command.
 ```
   python yolov5pred.py 
